@@ -1,0 +1,120 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: E:Enum::SV_ItemTypes.All_Items
+  name: "\"All Items\""
+  href: reference/sv-qr-codes/Enum/SV-ItemTypes.html
+- uid: E:Enum::SV_ItemTypes.Item
+  name: Item
+  href: reference/sv-qr-codes/Enum/SV-ItemTypes.html
+- uid: E:Enum::SV_ItemTypes.Item_Category
+  name: "\"Item Category\""
+  href: reference/sv-qr-codes/Enum/SV-ItemTypes.html
+- uid: E:Enum::SV_ItemTypes.Item_Set
+  name: "\"Item Set\""
+  href: reference/sv-qr-codes/Enum/SV-ItemTypes.html
+- uid: F:Table::SV_Item_Lot.SV_Document_No[20]
+  name: "\"SV Document No\""
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SV_Entry_No
+  name: "\"SV Entry No\""
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SV_Item_Description[100]
+  name: "\"SV Item Description\""
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SV_Item_No[20]
+  name: "\"SV Item No\""
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SV_Lot_No[50]
+  name: "\"SV Lot No\""
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SV_Serial_No[50]
+  name: "\"SV Serial No\""
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SystemCreatedAt
+  name: SystemCreatedAt
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SystemCreatedBy
+  name: SystemCreatedBy
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SystemId
+  name: SystemId
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SystemModifiedAt
+  name: SystemModifiedAt
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SystemModifiedBy
+  name: SystemModifiedBy
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:Table::SV_Item_Lot.SystemRowVersion
+  name: SystemRowVersion
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: F:TableExtension::SV_Item.SV_Cust_Catalog_Qty
+  name: "\"SV Cust Catalog Qty\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html
+- uid: F:TableExtension::SV_Item.SV_Cust_Catalog_UOM[10]
+  name: "\"SV Cust Catalog UOM\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html
+- uid: F:TableExtension::SV_Item.SV_Label_Report_No.[20]
+  name: "\"SV Label Report No.\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html
+- uid: F:TableExtension::SV_Item.SV_NMFC_Code[20]
+  name: "\"SV NMFC Code\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html
+- uid: F:TableExtension::SV_Item.SV_Overpick_UOM[10]
+  name: "\"SV Overpick UOM\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html
+- uid: F:TableExtension::SV_Item.SV_Prevent_FC
+  name: "\"SV Prevent FC\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html
+- uid: F:TableExtension::SV_Item.SV_QtyBasePerPallet
+  name: "\"SV QtyBasePerPallet\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html
+- uid: F:TableExtension::SV_Item.SV_Whse._UOM[10]
+  name: "\"SV Whse. UOM\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html
+- uid: M:Codeunit::SV_QR_Code_Mgt.GetQRCodeText(Text):Text
+  name: GetQRCodeText
+  href: reference/sv-qr-codes/Codeunit/SV-QR-Code-Mgt.html
+- uid: N:Module::SV_QR_Codes
+  name: SV QR Codes
+  summary: >
+    <p sourcefile="reference/sv-qr-codes/Module/SV-QR-Codes.yml" sourcestartlinenumber="1" jsonPath="/summary">Solutions for QR Code</p>
+  fqName: SV QR Codes by SVirlan (23.0.0.1)
+  href: reference/sv-qr-codes/Module/SV-QR-Codes.html
+- uid: O:Codeunit::SV_QR_Code_Mgt
+  name: "\"SV QR Code Mgt\""
+  summary: >
+    <p sourcefile="reference/sv-qr-codes/Codeunit/SV-QR-Code-Mgt.yml" sourcestartlinenumber="1" jsonPath="/summary">Codeunit SV QR Code Mgt (ID 60504).</p>
+  fqName: "\"SV QR Code Mgt\""
+  href: reference/sv-qr-codes/Codeunit/SV-QR-Code-Mgt.html
+- uid: O:Enum::SV_ItemTypes
+  name: "\"SV ItemTypes\""
+  summary: >
+    <p sourcefile="reference/sv-qr-codes/Enum/SV-ItemTypes.yml" sourcestartlinenumber="1" jsonPath="/summary">Enum SV ItemTypes (ID 60509).</p>
+  fqName: "\"SV ItemTypes\""
+  href: reference/sv-qr-codes/Enum/SV-ItemTypes.html
+- uid: O:Page::SV_Item_Lot_List
+  name: "\"SV Item Lot List\""
+  summary: >
+    <p sourcefile="reference/sv-qr-codes/Page/SV-Item-Lot-List.yml" sourcestartlinenumber="1" jsonPath="/summary">Page SV Item Lot List (ID 60516).</p>
+  fqName: "\"SV Item Lot List\""
+  href: reference/sv-qr-codes/Page/SV-Item-Lot-List.html
+- uid: O:PageExtension::SV_Item_List
+  name: "\"SV Item List\""
+  summary: >
+    <p sourcefile="reference/sv-qr-codes/PageExtension/SV-Item-List.yml" sourcestartlinenumber="1" jsonPath="/summary">PageExtension SV Item List (ID 60505) extends Record Item List //31.</p>
+  fqName: "\"SV Item List\""
+  href: reference/sv-qr-codes/PageExtension/SV-Item-List.html
+- uid: O:Table::SV_Item_Lot
+  name: "\"SV Item Lot\""
+  summary: >
+    <p sourcefile="reference/sv-qr-codes/Table/SV-Item-Lot.yml" sourcestartlinenumber="1" jsonPath="/summary">Table SV Item Lot (ID 60510).</p>
+  fqName: "\"SV Item Lot\""
+  href: reference/sv-qr-codes/Table/SV-Item-Lot.html
+- uid: O:TableExtension::SV_Item
+  name: "\"SV Item\""
+  summary: >
+    <p sourcefile="reference/sv-qr-codes/TableExtension/SV-Item.yml" sourcestartlinenumber="1" jsonPath="/summary">TableExtension SV Item (ID 60502) extends Record Item //27.</p>
+  fqName: "\"SV Item\""
+  href: reference/sv-qr-codes/TableExtension/SV-Item.html

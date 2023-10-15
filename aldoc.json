@@ -1,0 +1,10 @@
+﻿{
+  "Modules": [
+    {
+      "AppId": "cee29cae-73ef-427c-b807-bbc35b9b694a",
+      "Name": "SV QR Codes",
+      "Publisher": "SVirlan",
+      "Version": "23.0.0.1"
+    }
+  ]
+}

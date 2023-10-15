@@ -1,0 +1,116 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/ALDocs/QRCodeDemo/QRCodeDemo",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/sv-qr-codes/Codeunit/SV-QR-Code-Mgt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/sv-qr-codes/Codeunit/SV-QR-Code-Mgt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/sv-qr-codes/Enum/SV-ItemTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/sv-qr-codes/Enum/SV-ItemTypes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/sv-qr-codes/Module/SV-QR-Codes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/sv-qr-codes/Module/SV-QR-Codes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/sv-qr-codes/Page/SV-Item-Lot-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/sv-qr-codes/Page/SV-Item-Lot-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/sv-qr-codes/PageExtension/SV-Item-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/sv-qr-codes/PageExtension/SV-Item-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/sv-qr-codes/Table/SV-Item-Lot.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/sv-qr-codes/Table/SV-Item-Lot.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/sv-qr-codes/TableExtension/SV-Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/sv-qr-codes/TableExtension/SV-Item.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"SV Item Lot"'
+alId: ID 60510
+baseKind: Table
+kind: Table
+parent: 'N:Module::SV_QR_Codes::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Table](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-table-object)'
+objectProperties:
+- name: Caption
+  value: Item Lot List
+  promoted: false
+fields:
+- type:
+    name: Integer
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SV_Entry_No
+  name: '"SV Entry No"'
+- type:
+    name: Code[20]
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SV_Item_No[20]
+  name: '"SV Item No"'
+- type:
+    name: Text[100]
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SV_Item_Description[100]
+  name: '"SV Item Description"'
+- type:
+    name: Code[20]
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SV_Document_No[20]
+  name: '"SV Document No"'
+- type:
+    name: Code[50]
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SV_Lot_No[50]
+  name: '"SV Lot No"'
+- type:
+    name: Code[50]
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SV_Serial_No[50]
+  name: '"SV Serial No"'
+- type:
+    name: Guid
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SystemId
+  name: SystemId
+- type:
+    name: DateTime
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SystemCreatedAt
+  name: SystemCreatedAt
+- type:
+    name: Guid
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SystemCreatedBy
+  name: SystemCreatedBy
+- type:
+    name: DateTime
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SystemModifiedAt
+  name: SystemModifiedAt
+- type:
+    name: Guid
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SystemModifiedBy
+  name: SystemModifiedBy
+- type:
+    name: BigInteger
+    isExternal: true
+  uid: F:Table::SV_Item_Lot.SystemRowVersion
+  name: SystemRowVersion
+commentId: O:Table::SV Item Lot
+summary: Table SV Item Lot (ID 60510).
+uid: O:Table::SV_Item_Lot
+name: '"SV Item Lot"'

@@ -1,0 +1,35 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"SV Item Lot List"'
+alId: ID 60509
+baseKind: Page
+kind: Page
+parent: 'N:Module::SV_QR_Codes::Namespace::'
+langs:
+- al
+sourceTableType:
+  xref: O:Table::SV_Item_Lot
+  name: '"SV Item Lot"'
+  isExternal: false
+seeAlso:
+- '[Page](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-page-object)'
+objectProperties:
+- name: Caption
+  value: Item Lot List
+  promoted: false
+- name: PageType
+  value: List
+  promoted: true
+- name: SourceTable
+  value: "60510"
+  promoted: true
+  xrefType:
+    xref: O:Table::SV_Item_Lot
+    name: '"SV Item Lot"'
+    isExternal: false
+- name: UsageCategory
+  value: none
+  promoted: false
+commentId: O:Page::SV Item Lot List
+summary: Page SV Item Lot List (ID 60516).
+uid: O:Page::SV_Item_Lot_List
+name: '"SV Item Lot List"'

@@ -1,0 +1,30 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"SV QR Code Mgt"'
+alId: ID 60504
+baseKind: Codeunit
+kind: Codeunit
+parent: 'N:Module::SV_QR_Codes::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Codeunit](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-codeunit-object)'
+methods:
+- syntax:
+    content: 'procedure GetQRCodeText(pInputVal: Text): Text'
+    parameters:
+    - id: pInputVal
+      description: text.
+      parameterType:
+        name: Text
+        isExternal: true
+    return:
+      description: Return value of type Text.
+      returnType:
+        name: Text
+        isExternal: true
+  uid: M:Codeunit::SV_QR_Code_Mgt.GetQRCodeText(Text):Text
+  name: GetQRCodeText
+commentId: O:Codeunit::SV QR Code Mgt
+summary: Codeunit SV QR Code Mgt (ID 60504).
+uid: O:Codeunit::SV_QR_Code_Mgt
+name: '"SV QR Code Mgt"'

@@ -1,0 +1,27 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"SV ItemTypes"'
+alId: ID 60509
+baseKind: Enum
+kind: Enum
+parent: 'N:Module::SV_QR_Codes::Namespace::'
+langs:
+- al
+seeAlso:
+- '[Enum](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-extensible-enums)'
+objectProperties:
+- name: Extensible
+  value: "True"
+  promoted: true
+enumValues:
+- uid: E:Enum::SV_ItemTypes.All_Items
+  name: '"All Items"'
+- uid: E:Enum::SV_ItemTypes.Item_Category
+  name: '"Item Category"'
+- uid: E:Enum::SV_ItemTypes.Item
+  name: Item
+- uid: E:Enum::SV_ItemTypes.Item_Set
+  name: '"Item Set"'
+commentId: O:Enum::SV ItemTypes
+summary: Enum SV ItemTypes (ID 60509).
+uid: O:Enum::SV_ItemTypes
+name: '"SV ItemTypes"'

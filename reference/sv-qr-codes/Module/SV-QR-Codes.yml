@@ -1,0 +1,17 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: SV QR Codes by SVirlan (23.0.0.1)
+baseKind: Module
+kind: Module
+objectProperties:
+- name: Version
+  value: 23.0.0.1
+  promoted: false
+- name: Publisher
+  value: SVirlan
+  promoted: false
+- name: Brief
+  value: QR code management
+  promoted: false
+summary: Solutions for QR Code
+uid: N:Module::SV_QR_Codes
+name: SV QR Codes

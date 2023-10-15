@@ -1,0 +1,58 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: '"SV Item"'
+alId: ID 60502
+baseKind: Table
+kind: TableExtension
+parent: 'N:Module::SV_QR_Codes::Namespace::'
+langs:
+- al
+extends:
+  name: Microsoft.Inventory.Item.Item
+  isExternal: true
+seeAlso:
+- '[Table Extension](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-table-ext-object)'
+fields:
+- type:
+    name: Decimal
+    isExternal: true
+  uid: F:TableExtension::SV_Item.SV_QtyBasePerPallet
+  name: '"SV QtyBasePerPallet"'
+- type:
+    name: Integer
+    isExternal: true
+  uid: F:TableExtension::SV_Item.SV_Prevent_FC
+  name: '"SV Prevent FC"'
+- type:
+    name: Code[20]
+    isExternal: true
+  uid: F:TableExtension::SV_Item.SV_Label_Report_No.[20]
+  name: '"SV Label Report No."'
+- type:
+    name: Decimal
+    isExternal: true
+  uid: F:TableExtension::SV_Item.SV_Cust_Catalog_Qty
+  name: '"SV Cust Catalog Qty"'
+- type:
+    name: Code[10]
+    isExternal: true
+  uid: F:TableExtension::SV_Item.SV_Cust_Catalog_UOM[10]
+  name: '"SV Cust Catalog UOM"'
+- type:
+    name: Code[20]
+    isExternal: true
+  uid: F:TableExtension::SV_Item.SV_NMFC_Code[20]
+  name: '"SV NMFC Code"'
+- type:
+    name: Code[10]
+    isExternal: true
+  uid: F:TableExtension::SV_Item.SV_Overpick_UOM[10]
+  name: '"SV Overpick UOM"'
+- type:
+    name: Code[10]
+    isExternal: true
+  uid: F:TableExtension::SV_Item.SV_Whse._UOM[10]
+  name: '"SV Whse. UOM"'
+commentId: O:TableExtension::SV Item
+summary: TableExtension SV Item (ID 60502) extends Record Item //27.
+uid: O:TableExtension::SV_Item
+name: '"SV Item"'

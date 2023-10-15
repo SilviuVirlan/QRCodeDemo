@@ -1,0 +1,29 @@
+﻿items:
+- name: Overview
+  uid: N:Module::SV_QR_Codes
+- name: Reference
+  items:
+  - name: Tables
+    items:
+    - name: SV Item Lot
+      uid: O:Table::SV_Item_Lot
+  - name: Codeunits
+    items:
+    - name: SV QR Code Mgt
+      uid: O:Codeunit::SV_QR_Code_Mgt
+  - name: Pages
+    items:
+    - name: SV Item Lot List
+      uid: O:Page::SV_Item_Lot_List
+  - name: PageExtensions
+    items:
+    - name: SV Item List
+      uid: O:PageExtension::SV_Item_List
+  - name: TableExtensions
+    items:
+    - name: SV Item
+      uid: O:TableExtension::SV_Item
+  - name: Enums
+    items:
+    - name: SV ItemTypes
+      uid: O:Enum::SV_ItemTypes

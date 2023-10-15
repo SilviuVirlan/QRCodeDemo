@@ -1,0 +1,1 @@
+{{#isExternal}}{{name}}{{/isExternal}}{{^isExternal}}<xref uid="{{ xref }}" template="partials/businessCentralApplication/xref-name.tmpl" />{{/isExternal}}
